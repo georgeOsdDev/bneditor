@@ -15,7 +15,7 @@ https://raw.github.com/marijnh/CodeMirror/master/lib/codemirror.css
 .activeline {background: #e8f2ff !important;}
 
 .cm-tab {
-  background-image: url("../images/visible-tab.png");
+  background-image: url("/images/visible-tab.png");
   background-position: right;
   background-repeat: no-repeat;
 }
